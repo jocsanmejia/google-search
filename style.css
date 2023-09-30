@@ -112,12 +112,12 @@
   .div-img {
     display: flex;
     flex-wrap: wrap;
-    gap: 6px;
-    padding: 30px;
+    gap: 5px;
+    padding: 20px;
   }
 
   .div-img img {
-    height: 200px;
+    height: 180px;
     flex-grow: 1;
   }
 
